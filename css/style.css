@@ -99,20 +99,20 @@ currentplace {
 .body-content h3 {
     font-size: 1.5rem;
     font-weight: normal;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 .body-content h4 {
     text-align: left;
     font-size: 1.25rem;
     font-weight: normal;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
     color: rgb(174, 249, 238);
 }
 .body-content p {
     font-size: 14pt;
     font-weight: normal;
-    margin: 1rem 0 2rem;
+    margin: 0.5rem 0 1rem;
 }
 
 /* Photo panels
