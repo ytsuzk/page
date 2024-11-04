@@ -131,14 +131,15 @@ currentplace {
 
 /* Main profile
 -----------------------------------------------*/
-.body-profile {
+.box-main {
     margin: 2rem 5rem 2rem;
+    padding-top: 2rem;
     padding-bottom: 3rem;
     background: rgb(0, 92, 80);
     border-radius: 20px;
     
 }
-.body-profile h3{
+.box-main h3{
     color: rgb(174, 249, 238);
     text-decoration: underline;
 }
@@ -264,6 +265,16 @@ iframe {
     margin-top: -7rem;
 }
 
+.body-profile {
+    margin: 4rem 5rem 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    background: rgb(0, 92, 80);
+    border-radius: 20px;
+    
+}
 .body-profile-e {
     margin: 0rem 5rem 1rem;
     padding-top: 2rem;
@@ -273,6 +284,11 @@ iframe {
     background: rgb(0, 92, 80);
     border-radius: 20px;
     
+}
+.body-profile h3{
+    color: rgb(174, 249, 238);
+    text-decoration: underline;
+    margin-bottom: 2rem;
 }
 
 .profile-container {
