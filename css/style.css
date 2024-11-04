@@ -133,7 +133,7 @@ currentplace {
 -----------------------------------------------*/
 .body-profile {
     margin: 2rem 5rem 2rem;
-    padding: 1rem;
+    padding-bottom: 3rem;
     background: rgb(0, 92, 80);
     border-radius: 20px;
     
@@ -161,7 +161,6 @@ currentplace {
 }
 iframe {
     width: 75%;
-    margin-bottom: 2rem;
 }
 
 
