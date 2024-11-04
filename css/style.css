@@ -88,6 +88,74 @@ currentplace {
 /* HOME
 -----------------------------------------------*/
 
+.body-content {
+    text-align: center;
+}
+
+.body-content h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.body-content h3 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+}
+.body-content h4 {
+    text-align: left;
+    font-size: 1.25rem;
+    font-weight: normal;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: rgb(174, 249, 238);
+}
+.body-content p {
+    font-size: 14pt;
+    font-weight: normal;
+    margin: 1rem 0 2rem;
+}
+
+/* Main
+-----------------------------------------------*/
+.body-profile {
+    margin: 3rem 5rem 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    background: rgb(0, 92, 80);
+    border-radius: 20px;
+    
+}
+.body-profile h3{
+    color: rgb(174, 249, 238);
+    text-decoration: underline;
+}
+
+.contact-table {
+    margin: 1rem auto 2rem;
+    border-spacing: 2rem 1rem;
+    width: 90%;
+}
+.contact-table th {
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: rgb(174, 249, 238);
+    text-align: right;
+    vertical-align: top;
+    width: 25%;
+}
+.contact-table td {
+    font-size: 1.2rem;
+    text-align: left;
+    vertical-align: top;
+    width: 75%;
+}
+iframe {
+    width: 75%;
+}
+
+
 .body-header {
     position:fixed;
     top: 4rem;
@@ -140,32 +208,6 @@ currentplace {
     padding: 0.5rem;
 }
 
-.body-content {
-    text-align: center;
-}
-
-.body-content h2 {
-    font-size: 2.5rem;
-    font-weight: normal;
-}
-.body-content h3 {
-    font-size: 1.5rem;
-    font-weight: normal;
-    margin-bottom: 1rem;
-}
-.body-content h4 {
-    text-align: left;
-    font-size: 1.25rem;
-    font-weight: normal;
-    margin-top: 3rem;
-    margin-bottom: 2rem;
-    color: rgb(174, 249, 238);
-}
-.body-content p {
-    font-size: 14pt;
-    font-weight: normal;
-    margin: 1rem 0 2rem;
-}
 
 .body-content-left {
     text-align: left;
@@ -223,16 +265,7 @@ currentplace {
     padding-top: 7rem;
     margin-top: -7rem;
 }
-.body-profile {
-    margin: 4rem 5rem 1rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    background: rgb(0, 92, 80);
-    border-radius: 20px;
-    
-}
+
 .body-profile-e {
     margin: 0rem 5rem 1rem;
     padding-top: 2rem;
@@ -243,10 +276,7 @@ currentplace {
     border-radius: 20px;
     
 }
-.body-profile h3{
-    color: rgb(174, 249, 238);
-    text-decoration: underline;
-}
+
 .profile-container {
     display: flex;
     justify-content: center;
@@ -316,29 +346,6 @@ currentplace {
     font-size: 1.2rem;
     text-align: left;
     vertical-align: top;
-    width: 75%;
-}
-.contact-table {
-    margin: 1rem auto 2rem;
-    border-spacing: 2rem 1rem;
-    width: 90%;
-}
-.contact-table th {
-    font-size: 1.2rem;
-    font-weight: normal;
-    color: rgb(174, 249, 238);
-    text-align: right;
-    vertical-align: top;
-    width: 25%;
-}
-.contact-table td {
-    font-size: 1.2rem;
-    text-align: left;
-    vertical-align: top;
-    width: 75%;
-}
-
-iframe {
     width: 75%;
 }
 
