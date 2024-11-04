@@ -102,7 +102,6 @@ currentplace {
     margin-bottom: 0.5rem;
 }
 .body-content h4 {
-    text-align: left;
     font-size: 1.25rem;
     font-weight: normal;
     margin-top: 1rem;
@@ -122,7 +121,7 @@ currentplace {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 0.5rem;
     margin-bottom: 3rem;
-    padding: 5rem;
+    padding: 1rem 5rem;
 }
 .item-panel{
     text-align: center;
