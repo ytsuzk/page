@@ -143,13 +143,11 @@ currentplace {
     color: rgb(174, 249, 238);
     text-align: right;
     vertical-align: top;
-    width: 25%;
 }
 .contact-table td {
     font-size: 1.2rem;
     text-align: left;
     vertical-align: top;
-    width: 75%;
 }
 iframe {
     width: 75%;
