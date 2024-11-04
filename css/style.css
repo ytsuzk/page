@@ -246,7 +246,6 @@ currentplace {
 .body-profile h3{
     color: rgb(174, 249, 238);
     text-decoration: underline;
-    margin-bottom: 2rem;
 }
 .profile-container {
     display: flex;
