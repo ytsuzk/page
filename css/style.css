@@ -144,7 +144,7 @@ currentplace {
 }
 
 .contact-table {
-    margin: 1rem auto 2rem;
+    margin: 0rem auto 2rem;
     border-spacing: 2rem 1rem;
 }
 .contact-table th {
@@ -161,6 +161,7 @@ currentplace {
 }
 iframe {
     width: 75%;
+    margin-bottom: 2rem;
 }
 
 
