@@ -322,6 +322,7 @@ currentplace {
 .contact-table {
     margin: 1rem auto 2rem;
     border-spacing: 2rem 1rem;
+    width: 90%;
 }
 .contact-table th {
     font-size: 1.2rem;
@@ -329,11 +330,13 @@ currentplace {
     color: rgb(174, 249, 238);
     text-align: right;
     vertical-align: top;
+    width: 25%;
 }
 .contact-table td {
     font-size: 1.2rem;
     text-align: left;
     vertical-align: top;
+    width: 75%;
 }
 
 iframe {
