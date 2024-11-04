@@ -312,6 +312,7 @@ iframe {
 .body-profile h3{
     color: rgb(174, 249, 238);
     text-decoration: underline;
+    margin-left: 2rem;
     margin-bottom: 2rem;
 }
 
@@ -343,7 +344,6 @@ iframe {
     list-style-position: outside;
 }
 .body-list li {
-    margin-left: 0px;
     line-height: 1.4;
     margin-left: 2rem;
     margin-bottom: 1rem;
