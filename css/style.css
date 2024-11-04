@@ -244,7 +244,11 @@ iframe {
     margin-bottom: 0.5rem;
     color: rgb(174, 249, 238);
 }
-
+.body-content-left p {
+    font-size: 14pt;
+    font-weight: normal;
+    margin: 0.5rem 0 1rem;
+}
 
 .body-upper-title {
     border-bottom: 1px solid #fff;
