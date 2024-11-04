@@ -122,7 +122,7 @@ currentplace {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 0.5rem;
     margin-bottom: 3rem;
-    padding: 1rem;
+    padding: 5rem;
 }
 .item-panel{
     text-align: center;
@@ -137,7 +137,6 @@ currentplace {
     padding-bottom: 3rem;
     background: rgb(0, 92, 80);
     border-radius: 20px;
-    
 }
 .box-main h3{
     color: rgb(174, 249, 238);
