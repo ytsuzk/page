@@ -164,6 +164,17 @@ currentplace {
     text-align: left;
     vertical-align: top;
 }
+.contact-table a:link {
+    color: #fff;
+    text-decoration: underline;
+}
+.contact-table a:visited {
+    color: #fff;
+    text-decoration: underline;
+}
+.contact-table a:hover {
+    color: rgb(255, 134, 48);
+}
 iframe {
     width: 75%;
 }
